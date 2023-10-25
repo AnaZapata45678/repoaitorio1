@@ -1,2 +1,2 @@
-# repoaitorio1
+# repositorio1
 este es nuestro primer repositorio
